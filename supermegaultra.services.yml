@@ -1,0 +1,5 @@
+services:
+  supermegaultra.twig.twig_extension:
+    class: Drupal\supermegaultra\Twig\TwigExtension
+    tags:
+      - { name: twig.extension }

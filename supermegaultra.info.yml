@@ -1,0 +1,4 @@
+name: Supermegaultra
+type: module
+description: Demos for the Twig Lab at DrupalCon Austin 2014.
+core: 8.x
